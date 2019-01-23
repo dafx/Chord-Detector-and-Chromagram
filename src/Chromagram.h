@@ -31,7 +31,7 @@
 #endif
 
 #ifdef USE_KISS_FFT
-#include "kiss_fft.h"
+#include "../libs/kiss_fft130/kiss_fft.h"
 #endif
 
 //=======================================================================

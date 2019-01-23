@@ -2,3 +2,5 @@
 build/
 *.pbxuser
 xcuserdata
+ace/Builds/
+ace/JuceLibraryCode/
