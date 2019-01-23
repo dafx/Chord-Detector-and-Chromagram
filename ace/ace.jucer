@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="MuiHZv" name="ace" projectType="audioplug" jucerVersion="5.4.1"
-              defines="USE_KISS_FFT">
+              defines="USE_KISS_FFT" pluginFormats="buildStandalone,buildVST,buildVST3">
   <MAINGROUP id="yBAtdC" name="ace">
     <GROUP id="{5FB45F1D-6F34-2C7B-4CD8-78890CF65DCE}" name="Source">
       <GROUP id="{D7C8A716-1D26-B752-7725-4CC85C5C7368}" name="libs">
